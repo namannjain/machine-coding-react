@@ -1,0 +1,13 @@
+.tabs__content {
+  width: 16rem;
+  height: 20rem;
+  border: 1px solid black;
+  border-top: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.activeTab {
+  border-bottom: none;
+}

@@ -1,0 +1,8 @@
+.kanban{
+  text-align: center;
+}
+
+.board__container{
+  display: flex;
+  justify-content: space-around;
+}

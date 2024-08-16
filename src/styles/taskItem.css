@@ -1,0 +1,27 @@
+.task-item{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 30px;
+  border: 0.7px solid lightgray;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: grab;
+  font-size: 20px;
+  margin: 10px 0;
+}
+.task-item:hover{
+  background-color: lightgray;
+}
+/* .btn{
+  width: 70px;
+  height: 70px;
+  padding: 5px;
+} */
+
+.btn:hover{
+  background-color: purple;
+  cursor: pointer;
+  border-radius: 50%;
+}
